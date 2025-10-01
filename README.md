@@ -1,38 +1,43 @@
-# Fokus - Aplicativo de Foco e Produtividade
+# 🎯 Fokus - Aplicativo de Foco e Produtividade
 
 <p align="center">
   <img src="./imagens/foco.png" alt="Fokus Banner" width="400">
 </p>
 
-## Descrição
+## 📌 Sobre o Projeto  
 
-**Fokus** é um aplicativo web que ajuda você a otimizar sua produtividade utilizando a técnica de Pomodoro. Ele alterna entre períodos de foco, descanso curto e descanso longo, permitindo manter a concentração e equilibrar momentos de pausa. O projeto é **fictício**, desenvolvido com fins de estudo e demonstração.
+O **Fokus** é um aplicativo web inspirado na técnica de **Pomodoro**, que ajuda você a manter o foco, alternando entre períodos de trabalho e descanso.  
+Com um design responsivo e moderno, ele adapta as cores e imagens de acordo com o contexto (foco, descanso curto ou longo) e ainda oferece uma trilha sonora opcional para mergulhar de cabeça na produtividade.  
 
-O design é moderno, responsivo e utiliza cores que indicam o contexto atual (foco ou descanso). Além disso, possui opção de ativar música ambiente durante o período de foco.
-
----
-
-## Funcionalidades
-
-- Alternar entre modos:
-  - Foco (25 minutos)
-  - Descanso curto (5 minutos)
-  - Descanso longo (15 minutos)
-- Contador regressivo com atualização dinâmica na tela
-- Iniciar, pausar e resetar o temporizador
-- Reproduzir música de foco opcional
-- Alteração de cores e imagens conforme o contexto
-- Alertas sonoros ao iniciar, pausar e finalizar o tempo
+⚡ **Obs.:** Este é um projeto **fictício e sem fins comerciais**, criado apenas para **estudos e prática de Front-end**.  
 
 ---
 
-## Tecnologias Utilizadas
+## ✨ Funcionalidades  
 
-- **HTML5** - Estrutura da página
-- **CSS3** - Estilização, cores dinâmicas e responsividade
-- **JavaScript** - Lógica do temporizador e controle de eventos
-- **Fontes do Google** - Montserrat, Prata e Unbounded
-- **Imagens** - Ícones e banners (geradas por IA no Adobe Firefly)
+- ⏱️ Alternar entre modos:
+  - **Foco:** 25 minutos  
+  - **Descanso curto:** 5 minutos  
+  - **Descanso longo:** 15 minutos  
+- ▶️ Botão de **iniciar / pausar** com alertas sonoros  
+- 🎵 Opção de **ativar música ambiente** durante o foco  
+- 🎨 Alteração de **cores e imagens dinâmicas** conforme o modo  
+- ✅ **Lista de tarefas** com:
+  - Adição, edição e exclusão  
+  - Marcação automática de tarefa concluída ao fim do ciclo de foco  
+  - Opção de remover todas ou apenas concluídas  
+- 💾 Persistência de dados com **LocalStorage**  
+
+---
+
+## 🛠️ Tecnologias Utilizadas  
+
+- **HTML5** → Estrutura da aplicação  
+- **CSS3** → Estilização e responsividade  
+- **JavaScript (Vanilla)** → Lógica do timer e CRUD de tarefas  
+- **LocalStorage** → Armazenamento de tarefas  
+- **Google Fonts** → Montserrat, Prata e Unbounded  
+- **Imagens e ícones** → Criados no Adobe Firefly e SVGs customizados  
 
 ---
 
